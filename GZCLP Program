@@ -44,7 +44,7 @@
     <div class="container">
         <h1>Workout Schedule</h1>
         <div class="day">
-            <h2>Day 1</h2>
+            <h2>Monday</h2>
             <ul>
                 <li>Squat: 3 sets of 5 reps (T1)</li>
                 <li>Bench Press: 3 sets of 5 reps (T1)</li>
@@ -53,7 +53,7 @@
             </ul>
         </div>
         <div class="day">
-            <h2>Day 2</h2>
+            <h2>Wednesday</h2>
             <ul>
                 <li>Deadlift: 1 set of 5 reps (T1)</li>
                 <li>Overhead Press: 3 sets of 5 reps (T1)</li>
@@ -62,7 +62,7 @@
             </ul>
         </div>
         <div class="day">
-            <h2>Day 3</h2>
+            <h2>Friday</h2>
             <ul>
                 <li>Squat (lighter weight): 3 sets of 5 reps (T1)</li>
                 <li>Bench Press (lighter weight): 3 sets of 5 reps (T1)</li>
